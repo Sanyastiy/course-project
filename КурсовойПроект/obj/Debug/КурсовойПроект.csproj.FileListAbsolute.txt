@@ -1,0 +1,39 @@
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\bin\Debug\КурсовойПроект.exe.config
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\bin\Debug\КурсовойПроект.exe
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\bin\Debug\КурсовойПроект.pdb
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.csprojResolveAssemblyReference.cache
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Glavnaya.resources
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Properties.Resources.resources
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.csproj.GenerateResource.Cache
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.exe
+c:\users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.pdb
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Stress.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Locus.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Goat.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Accentuation.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Conflict.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Diagnostika.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Temperament.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Delo.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.kot.resources
+C:\Users\sanya\documents\visual studio 2013\Projects\КурсовойПроект\КурсовойПроект\obj\Debug\КурсовойПроект.Face.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\bin\Debug\КурсовойПроект.exe.config
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\bin\Debug\КурсовойПроект.exe
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\bin\Debug\КурсовойПроект.pdb
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.csprojAssemblyReference.cache
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Accentuation.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Conflict.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Delo.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Diagnostika.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Face.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Glavnaya.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Goat.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.kot.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Locus.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Properties.Resources.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Stress.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.Temperament.resources
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.csproj.GenerateResource.cache
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.csproj.CoreCompileInputs.cache
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.exe
+D:\Учебка\КурсовойПроектV7\КурсовойПроект\obj\Debug\КурсовойПроект.pdb

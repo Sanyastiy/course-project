@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D052F16-ACA8-48E0-BBD3-EB8683B4B38D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>КурсовойПроект</RootNamespace>
+    <AssemblyName>КурсовойПроект</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accentuation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accentuation.Designer.cs">
+      <DependentUpon>Accentuation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conflict.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conflict.Designer.cs">
+      <DependentUpon>Conflict.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delo.Designer.cs">
+      <DependentUpon>Delo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnostika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnostika.Designer.cs">
+      <DependentUpon>Diagnostika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Face.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Face.Designer.cs">
+      <DependentUpon>Face.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Glavnaya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Glavnaya.Designer.cs">
+      <DependentUpon>Glavnaya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Goat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Goat.Designer.cs">
+      <DependentUpon>Goat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kot.Designer.cs">
+      <DependentUpon>kot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Locus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Locus.Designer.cs">
+      <DependentUpon>Locus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stress.Designer.cs">
+      <DependentUpon>Stress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperament.Designer.cs">
+      <DependentUpon>Temperament.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Accentuation.resx">
+      <DependentUpon>Accentuation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conflict.resx">
+      <DependentUpon>Conflict.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delo.resx">
+      <DependentUpon>Delo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagnostika.resx">
+      <DependentUpon>Diagnostika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Face.resx">
+      <DependentUpon>Face.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Glavnaya.resx">
+      <DependentUpon>Glavnaya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Goat.resx">
+      <DependentUpon>Goat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kot.resx">
+      <DependentUpon>kot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Locus.resx">
+      <DependentUpon>Locus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Stress.resx">
+      <DependentUpon>Stress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperament.resx">
+      <DependentUpon>Temperament.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Заставка.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hmm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1ae.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6c9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\58f78a68d6b18b0fa6c63162212e2600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36d8a093-5580-4b3e-92e5-13c6d2039e8c-1024x683.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
